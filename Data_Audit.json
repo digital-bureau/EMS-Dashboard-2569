@@ -1,0 +1,41 @@
+{
+  "operations_source": "รายงานจำนวนปฏิบัติการ 2569(3).xlsx",
+  "coverage_source": "รายงานความครอบคลุมหน่วยปฏิบัติการระดับตำบล(1).xlsx",
+  "operation_period": "ปีงบประมาณ 2569 (1 ต.ค. 2568 – 30 ก.ย. 2569) ตามชื่อไฟล์และขอบเขตที่ผู้ใช้ยืนยัน",
+  "totals": {
+    "red": 664966,
+    "yellow": 1637172,
+    "green": 149086,
+    "other": 169631,
+    "total": 2620855
+  },
+  "coverage_totals": {
+    "districts": 878,
+    "tambons": 7255,
+    "with_unit": 3418,
+    "ems68": 7246,
+    "ems69": 7253
+  },
+  "rows": 7433,
+  "provinces": 77,
+  "coverage_provinces": 76,
+  "district_matched_ops": 2620384,
+  "tambon_matched_ops": 2617892,
+  "unmatched_rows": 177,
+  "geometry_composites": [
+    "2203",
+    "2209"
+  ],
+  "boundary_caveat": "ขอบเขตชุดเดิม ปภ. ดึง 18 ต.ค. 2569 ลดรายละเอียด ไม่รับรองความเป็นปัจจุบัน; อำเภอ 2203/2209 ประกอบชิ้นส่วนตำบล; ตำบล 230608 รหัสอำเภอผิดรูปแบบ ไม่แก้โดยอนุมาน",
+  "sources_sha256": {
+    "รายงานความครอบคลุมหน่วยปฏิบัติการระดับตำบล(1).xlsx": "94f92abb0cf94b155e3d063061d0def862cf219118fc8562c21873c71e85cf8b",
+    "รายงานจำนวนปฏิบัติการ 2569(3).xlsx": "7e3ca94c9c7aac9b64423d29a8b7b6dc6d17a45e1d4132507d22deb02ca11495"
+  },
+  "operation_fiscal_year": 2569,
+  "operation_start": "2025-10-01",
+  "operation_end": "2026-09-30",
+  "operation_time_resolution": "fiscal_year",
+  "source_total_row": 7435,
+  "source_total_matches": true,
+  "updated": "2026-10-20"
+}

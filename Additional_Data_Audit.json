@@ -1,0 +1,102 @@
+{
+  "payments": [
+    {
+      "fiscal_year": 2568,
+      "source": "ข้อมูลการจ่ายค่าชดเชยปฎิบัติการปีงบ 2568 (25 ก.พ. 68 - 30 ก.ย. 68).xlsx",
+      "sheet": "2568",
+      "source_rows": 33334,
+      "all": 945404,
+      "paid": 919666,
+      "amount": 522774020.0,
+      "distinct_unit_codes": 5099,
+      "summary_distinct_unit_codes": 5099.0,
+      "duplicate_unit_period_affiliation_keys": 385,
+      "start": "2025-02-25",
+      "end": "2025-09-30",
+      "sha256": "c1036603977f10570ad5965d30abc3415b726cec61382fac954ae9baa99868dd"
+    },
+    {
+      "fiscal_year": 2569,
+      "source": "ข้อมูลการจ่ายค่าชดเชยปฎิบัติการปีงบ 2569 (1 ต.ค. 68 - 30 ก.ย. 69).xlsx",
+      "sheet": "2569",
+      "source_rows": 76990,
+      "all": 2462412,
+      "paid": 2238408,
+      "amount": 1276361470.0,
+      "distinct_unit_codes": 5641,
+      "summary_distinct_unit_codes": 5641.0,
+      "duplicate_unit_period_affiliation_keys": 1850,
+      "start": "2025-10-01",
+      "end": "2026-09-30",
+      "sha256": "00129da0b303c53f6297c7d0aff25f57c2b966d9d0f5ead2913d7ae817d9a471"
+    }
+  ],
+  "foreign": [
+    {
+      "sheet": "รายจังหวัด",
+      "rows": 77,
+      "counts": [
+        44458,
+        47475,
+        57699,
+        1431
+      ],
+      "total": 151063
+    },
+    {
+      "sheet": "CBD",
+      "rows": 24,
+      "counts": [
+        44458,
+        47475,
+        57699,
+        1431
+      ],
+      "total": 151063
+    },
+    {
+      "sheet": "Scene triage",
+      "rows": 5,
+      "counts": [
+        44458,
+        47475,
+        57699,
+        1431
+      ],
+      "total": 151063
+    },
+    {
+      "sheet": "การปฏิบัติการ",
+      "rows": 8,
+      "counts": [
+        44458,
+        47475,
+        57699,
+        1431
+      ],
+      "total": 151063
+    },
+    {
+      "sheet": "สิทธิการรักษา",
+      "rows": 8,
+      "counts": [
+        41888,
+        44382,
+        53703,
+        1298
+      ],
+      "total": 141271
+    },
+    {
+      "sheet": "จำแนกตามประเทศ",
+      "rows": 179,
+      "counts": [
+        44458,
+        47475,
+        57699,
+        1431
+      ],
+      "total": 151063
+    }
+  ]
+}

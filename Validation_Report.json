@@ -1,0 +1,34 @@
+{
+  "assertions": 7526,
+  "source_rows": 7433,
+  "totals": {
+    "red": 664966,
+    "yellow": 1637172,
+    "green": 149086,
+    "other": 169631,
+    "total": 2620855
+  },
+  "top5": [
+    [
+      "ขอนแก่น",
+      127996
+    ],
+    [
+      "นครราชสีมา",
+      100208
+    ],
+    [
+      "อุบลราชธานี",
+      92293
+    ],
+    [
+      "ร้อยเอ็ด",
+      78414
+    ],
+    [
+      "นครศรีธรรมราช",
+      75553
+    ]
+  ],
+  "verified": "all province/district/tambon scopes; full tables; map aggregates; percentages; density; detail CSV"
+}
